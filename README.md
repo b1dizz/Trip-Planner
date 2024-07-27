@@ -13,3 +13,6 @@ This API includes several functions:
 1 - Create trips/activities; 2 - Delete trips/activities; 3 - Update trips/activities.
 
 All the functions mentioned above are stored in a database.
+______________________________________________________________________________________
+### Author ###
+Linkedin: https://www.linkedin.com/in/brunoperes9612/
